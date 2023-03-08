@@ -1,5 +1,9 @@
 # Data Structures and Algorithms
 
+## typescript setup
+
+[Helpful guide](https://basarat.gitbook.io/typescript/nodejs)
+
 `yarn add -D typescript @types/node ts-node nodemon`
 
 `npx tsc --init --rootDir src --outDir build --esModuleInterop --resolveJsonModule --lib es6 --module commonjs --allowJs true --noImplicitAny true`
